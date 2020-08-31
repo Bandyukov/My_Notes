@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="add_note">добавить заметку</string>
+    <string name="input_title">Введите заголовок</string>
+    <string name="input_description">Введите описание</string>
+    <string name="warning1">Все поля должны быть заполнены</string>
+
+    <string-array name="week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
